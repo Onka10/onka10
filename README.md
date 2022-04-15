@@ -1,18 +1,26 @@
 ### オンカロです
 
-ゲームを作ったりしてます
+ゲームを作ったりしてる学生です。
+I'm a student who usually develops games.
 
-<!--
-**Onka10/onka10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+今まで作ったもの
+Works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1トレスコロルモリス
+→https://game.creators-guild.com/gck2021/4870/
+
+2飛ばせ！カーレース
+→https://cluster.mu/w/0301f070-5f37-45b2-a8b3-a1c493a7a33b
+
+3One Minute Bartender
+→https://unityroom.com/games/oneminutebartender
+
+4チュウも猫を噛む
+→https://unityroom.com/games/pnkteamc-mousebitecat
+
+5正義マン
+→https://github.com/JiaChen-Zeng/PLNR-Alpha01
+
+6Nested Paradox
+→https://github.com/Onka10/NestedParadox20211129
