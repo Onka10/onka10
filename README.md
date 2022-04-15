@@ -1,5 +1,3 @@
-### オンカロです
-
 ゲームを作ったりしてる学生です。
 I'm a student who usually develops games.
 
