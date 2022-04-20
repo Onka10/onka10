@@ -5,7 +5,7 @@ I'm a student who usually develops games.
 今まで作ったもの
 Works
 
-1トレスコロルモリス
+1トレスコロルモリス(旧バージョン)
 →https://game.creators-guild.com/gck2021/4870/
 
 2飛ばせ！カーレース
@@ -22,3 +22,6 @@ Works
 
 6Nested Paradox
 →https://github.com/Onka10/NestedParadox20211129
+
+7トレスコロルモリス(現行バージョン)
+→https://github.com/Onka10/TresCoralMorris
