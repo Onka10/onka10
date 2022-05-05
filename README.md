@@ -27,4 +27,4 @@ Works
 →https://github.com/Onka10/TresCoralMorris
 
 8タイトル未定
-→https://github.com/yanoharuto/Unity1Week
+→https://github.com/Onka10/unity1week
