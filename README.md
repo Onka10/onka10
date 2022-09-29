@@ -1,5 +1,4 @@
 ゲームを作ったりしてる学生です。
-I'm a student who usually develops games.
 
 
 今まで作ったもの
