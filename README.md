@@ -1,8 +1,5 @@
 ゲームを作ったりしてる学生です。
-
-
 今まで作ったもの
-Works
 
 1トレスコロルモリス(旧バージョン)
 →https://game.creators-guild.com/gck2021/4870/
