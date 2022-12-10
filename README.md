@@ -21,7 +21,7 @@
 6:Nested Paradox
 →https://github.com/Onka10/NestedParadox20211129
 
-7:トレスコロルモリス(現行バージョン)
+7:トレスコロルモリス(新バージョン)
 →https://github.com/Onka10/TresCoralMorris
 
 8:Over Worked
@@ -37,5 +37,5 @@
 
 12:制作中
 
-13：Unityqweek
+13：Unity1week
 →
