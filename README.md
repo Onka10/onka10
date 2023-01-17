@@ -35,7 +35,8 @@
 11:3Colors Run Game(仮)
 →https://github.com/Onka10/3ColorsRunGame
 
-12:授業でゲームを制作中
+12:講義で制作したゲーム
+→https://github.com/Onka10/jugyou
 
 13：Return my town
 →https://github.com/Onka10/unity1week202212
