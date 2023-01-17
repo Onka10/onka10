@@ -32,7 +32,7 @@
 
 10:ボードゲーム作りました
 
-11:3Colors Run Game(仮)
+11:3Colors Run Game
 →https://github.com/Onka10/3ColorsRunGame
 
 12:講義で制作したゲーム
