@@ -3,7 +3,7 @@
 
 ## 今まで作ったもの
 1. トレスコロルモリス(旧バージョン)
-→https://game.creators-guild.com/gck2021/4870/
+→https://game.creators-guild.com/gck2021/4870/  
 トレスコロルモリス(グラフィックバージョンアップ)
 →https://github.com/Onka10/TresCoralMorris
 2. 飛ばせ！カーレース
@@ -31,7 +31,8 @@
 13. 星零る夏の夜
 →https://github.com/Onka10/u1w2306
 14. Decolish
-→TGS出しました  
+→TGS出しました
+
 15.メスガキAIチャット
 →https://unityroom.com/games/mesugaki_ai_chat    
 16.制作中
