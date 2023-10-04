@@ -30,11 +30,11 @@
 →https://github.com/Onka10/unity1week202212
 13. 星零る夏の夜
 →https://github.com/Onka10/u1w2306
-14. Decolish  
+14. Decolish
 →TGS出しました  
-15.メスガキAIチャット  
+15.メスガキAIチャット
 →https://unityroom.com/games/mesugaki_ai_chat    
-16.制作中  
+16.制作中
 →unityromで公開予定  
 
 ---
