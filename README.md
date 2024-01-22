@@ -31,13 +31,13 @@
 13. 星零る夏の夜
 →https://unityroom.com/games/hoshihuru
 14. Decolish
-→TGS出しました
+→TGS出しました  
 15.メスガキAIチャット
 →https://unityroom.com/games/mesugaki_ai_chat    
 16.リヒトの絆
-→https://unityroom.com/games/rihito_of_ties
-17. すいかサバイバー
-→https://unityroom.com/games/suica-survivor
+→https://unityroom.com/games/rihito_of_ties  
+17すいかサバイバー
+→https://unityroom.com/games/suica-survivor  
 ---
 
 よく使うOSS
